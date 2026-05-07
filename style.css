@@ -1,0 +1,408 @@
+.section1{
+    background-color: white;
+}
+.container{
+    width: 90%;
+    margin: auto;
+    padding-top: 100px;
+}
+h1{
+    font-size: 70px;
+    font-weight: bold;
+    line-height: 1.1;
+    width: 600px;
+    color: #0b132b;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100px;
+  font-display: swap;
+}
+.heading2 h2 ,.sec5 h2{
+    font-size: 50px;
+    font-weight: bold;
+    width: 1100px;
+    color: #0b132b;
+  font-family: 'Inter';
+  font-style: normal;
+  font-display: swap;
+
+}
+.sec4div h2{
+    font-size: 35px;
+    font-weight: bold;
+    color: #0b132b;
+  font-family: 'Inter';
+  font-style: normal;
+  font-display: swap;
+
+}
+
+
+.heading{
+    width: 30px;
+    height: auto;
+}
+.paragraph {
+    width: 100%;
+    height: auto;
+    margin-bottom: 50px;
+
+}
+.inner-container{
+  
+    width: 50%;
+  float: left;
+  padding-right: 50px;
+}
+img{
+border-radius: 20px ;
+width: 100%;
+
+}
+.image{
+    
+    width: 30%;
+    overflow: hidden;
+   float: left;
+  
+}
+.clear{
+    clear: both;
+}
+
+.button1 {
+background-color:rgb(0, 0, 0);
+float: left;
+margin-right: 20px;
+padding-top: 25px;
+padding-bottom: 35px;
+padding-right: 10px;
+padding-left: 40px;
+width: 150px;
+height: 5px;
+border-radius: 10px;
+text-align: auto;
+
+}
+.button2 {
+background-color:rgb(252, 253, 253);
+float: left;
+padding-top: 20px;
+padding-bottom: 30px;
+margin-top: 5px;
+padding-left: 60px;
+width: 130px;
+height: 4px;
+border-radius: 10px;
+text-align: auto;
+border: 2px solid rgb(209, 213, 220);
+}
+.sec2{
+    margin: auto;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.heading2{
+    text-align: center;
+}
+.paragraph{
+    text-align: center;
+    color:rgb(80, 85, 101);
+}
+.sec4div p ,.sec5 p{
+    color:rgb(80, 85, 101);
+}
+
+#sec2card1{
+    background-color:rgb(239,246,255);
+}
+#sec2card2{
+    background-color:rgb(236,253,245) ;
+}
+#sec2card3{
+    background-color:rgb(250, 245, 255) ;
+}
+
+.card{
+   width: 31%;
+   height: 42%;
+    background-color: rgb(219, 234, 254);
+    border-radius: 15px;
+    border: 1px solid  rgb(190, 219, 255);
+    float: left;
+    margin: 12px;
+    text-align: center;
+   
+}
+#card2{
+    background-color: rgb(208, 250, 229);
+}
+#card3{
+    background-color: rgb(243, 232, 255);
+}
+.big{
+width: 70px;
+height: 50px;
+background-color: rgb(21, 93, 252);
+margin-top: 10%;
+margin-left: 38%;
+border-radius: 10px;
+padding-top: 20px;
+
+
+}
+.small{
+width: 50%;
+height: 50%;
+
+margin-left: 17px;
+
+}
+#big1{
+    background-color: rgb(21, 93, 525);
+   
+}
+#big2{
+    background-color: rgb(0,153,102)
+}
+#big3{
+background-color: rgb(152, 16, 250);
+padding-bottom: 3px;
+} 
+#small1{
+background-color: rgb(255, 255, 255);
+    width: 30px;
+    height: 30px;
+border-radius: 20%;
+ margin:auto;
+
+}
+
+#small2{
+    background-color: rgb(255, 255, 255);
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin:auto;
+}
+
+#small3{
+background-color: rgb(255, 255, 255);
+    width: 30px;
+    height: 30px;
+border-radius: 10%;
+ margin:auto;
+ padding: 3px;
+}
+
+.image2div{
+     width: 45%;
+  
+    float: left;
+   
+}
+.table{
+    float: left;
+    margin-left: 40px;
+ 
+    
+}
+.border-left{
+    border-left: 5px solid color(srgb 0 0 0);
+}
+.padind{
+    padding-left: 20px;
+}
+.img-table{
+    margin-top: 100px;
+  
+
+}
+.sec3{
+    background-color:rgb(249, 250, 251);
+    width: 100%;
+    margin-top: 50px;
+    padding-bottom: 80px;
+}
+.sec3img{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-top: 10px;
+   
+    margin-left: 25px;
+
+}
+#p1{
+    margin-left: 100px;
+    
+}
+.sec3 .card p{
+
+ padding-left: 8px;
+}
+.ph{
+    width: 70%;
+  
+}
+.sec4div{
+    float: left;
+    background-color:rgb(241, 245, 249) ;
+    padding-left: 71.6px;
+    padding-right: 71.6px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    width: 12.8%;
+   
+
+}
+.sec4{
+    
+    margin-top: 70px;
+    border:1px solid rgb(226, 232, 240);
+    border-radius: 20px;
+    overflow: hidden;
+    width: 79.4%;
+    margin: auto;
+    margin-top: 80px;
+    width: 100%;
+    
+}
+
+.padind-input{
+    width: 100%;
+    padding: 21px;
+}
+.padind-input-name{
+     width: 100%;
+    padding: 21px;
+    
+}
+
+.sec5 h2,.sec5 p{
+text-align: center;
+}
+.sec4div h2{
+    text-align: center;
+    padding-right: 55px;
+}
+.firsname{
+    float: left;
+    margin-left: 21px;
+    width: 47.4%;
+   
+}
+.lastname{
+    float: left;
+    margin-right: 20px;
+  width: 47.4%;
+}
+.input{
+  
+    border: 1px solid rgb(209, 213, 220);
+    border-radius: 10px;
+    width: 90%;
+    height: 60px;
+    margin: auto;
+    overflow: hidden;
+   
+}
+.the-inputs{
+    background-color: rgb(249, 250, 251);
+    padding-top: 50px;
+    margin: auto;
+    border-radius: 15px;
+    width: 900px;
+}
+
+.em,.phone-number,.membership-type,.Fitness-Goals{
+    margin-top: 20px;
+    
+}
+.Fitness-Goals{
+    margin-bottom: 30px;
+}
+
+
+.button3{
+background-color:rgb(0, 0, 0);
+color: rgb(255, 255, 231);
+width: 100%;
+margin-top: 30px;
+padding: 30px; ;
+padding-left: 40px; ;
+padding-right: 60px; ;
+width: 150px;
+height: 5px;
+border-radius: 10px;
+text-align: auto;
+width: 80%;
+text-align: center;
+margin: auto;
+}
+
+.center{
+    text-align: center;
+}
+.labels{
+   
+    margin-left: 65px;
+}
+.labels-name{
+    margin-left: 30px;
+}
+.sec6{
+    background-color: rgb(16, 24, 40);
+    padding-bottom: 70px;
+}
+.sec6 h2{
+color: rgb(255, 255, 255);
+
+}
+.sec6 p{
+    color: rgb(153, 161, 163);
+}
+.fit-core{
+    float: left;
+    width: 50%;
+}
+.Quick-Links{
+    float: left;
+   
+}
+.anc{
+    padding: 10px;
+    display: block;
+   
+}
+.anchor{
+    display: inline;
+    padding: 10px;
+}
+a:link,
+a:visited {
+  color: rgb(135, 161, 175);
+  background-color: transparent;
+  text-decoration: none;
+}
+.Contact{
+    float: left;
+    margin-left: 149.6px;
+    
+}
+.last-anchor{
+    float:right;
+    
+}
+.last-p{
+    float: left;
+   padding-top: 10px;
+}
+.Contact h3{
+color: white;
+}
+.a1,.a2,.a3{
+    float: left;
+    padding: 30px;
+    padding-right: 0px;
+}

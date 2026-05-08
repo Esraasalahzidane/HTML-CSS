@@ -1,3 +1,7 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
 .section1{
     background-color: white;
 }
@@ -50,7 +54,7 @@ h1{
 }
 .inner-container{
   
-    width: 50%;
+  width: 50%;
   float: left;
   padding-right: 50px;
 }
@@ -221,7 +225,7 @@ border-radius: 10%;
 .sec3{
     background-color:rgb(249, 250, 251);
     width: 100%;
-    margin-top: 50px;
+   
     padding-bottom: 80px;
 }
 .sec3img{
@@ -252,7 +256,7 @@ border-radius: 10%;
     padding-right: 71.6px;
     padding-bottom: 20px;
     padding-top: 20px;
-    width: 12.8%;
+    width: 13.03%;
    
 
 }
